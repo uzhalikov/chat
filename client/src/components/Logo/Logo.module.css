@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+.logo__text{
+    font-family: "Concert One", sans-serif;
+    font-size: 30px;
+    color: #428dff;
+    display: block;
+}

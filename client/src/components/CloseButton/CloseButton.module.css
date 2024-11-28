@@ -1,0 +1,13 @@
+.close{
+    transition: 0.5s;
+    cursor: pointer;
+    border-radius: 0 5px 0 0;
+    display: flex;
+    justify-content: center;
+    height: 25px;
+    width: 25px;
+}
+.close:hover{
+    fill: red;
+    transition: 0.5s;
+}
